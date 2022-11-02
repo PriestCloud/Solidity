@@ -1,2 +1,2 @@
 # Solidity
-This is where I dump all I'm learning with Solidity smart contract programming. 
+This is where I dump all I'm learning daily with Solidity smart contract programming. 
